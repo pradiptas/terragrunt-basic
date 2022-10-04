@@ -1,0 +1,5 @@
+infra/dev/ec2-instance/.terragrunt-cache/
+.terraform.lock.hcl
+infra/dev/.terraform
+.infracost
+infra/dev/.infracost
